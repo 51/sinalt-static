@@ -1,0 +1,12 @@
+.jumbotron{
+ background-color:#1CB11A;
+ color:white;
+ padding:10px 20px;
+}
+.row{
+    width:100%;
+    margin:0 auto;
+}
+.btn-default{
+    margin:30px 0 50px 0px;
+}
