@@ -1,0 +1,1 @@
+# sinalt-static
