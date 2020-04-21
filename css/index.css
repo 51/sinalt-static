@@ -65,6 +65,7 @@ h4{
     margin: 0 15px;
      font-style: normal;
     font-weight: normal;
+	line-height:26px;
 }
 .wbAppFoot .copyInfo {
     color: #FFF;
@@ -172,9 +173,11 @@ li{
 }
 
 .informIcon {
-    height: 16px;
+    height: 11px;
     vertical-align: 0;
-    width: 16px;
+    width: 12px;
+    background: url("/images/warn.png") no-repeat scroll 0px 0px transparent;
+    background-size:contain;
 }
 
 /********************************/
